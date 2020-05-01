@@ -11,7 +11,7 @@
   [Fastlane](https://fastlane.tools/)
   A mac computer is always open to build (best way)
 
-## Configuration with Gitlab Action:
+## Configuration with Github Action:
 
 - In the root repository, create `.github` directory and `workflow` sub directory
 - Create main.yml file which contains configuration for ci/cd
