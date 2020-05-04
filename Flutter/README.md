@@ -3,7 +3,7 @@
 ## Take note
 
 - It contains 3 main steps: linting, testing and build automaticcaly
-- Support for Gitlab(Gitlab Action), Bitbucket(Bitbucket pipeline), Gitlab(Gitlab Action)
+- Support for Github(Github Action), Bitbucket(Bitbucket pipeline), Gitlab(Gitlab CI/CD)
 - Focusing on Android first because it's easier to to start with.
 - Some options for IOS vertion:
   [Codemagic](https://codemagic.io/)
