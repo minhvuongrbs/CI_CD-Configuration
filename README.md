@@ -1,2 +1,2 @@
 # CI-CD-Configuration
-Share some tips to configure CI/CD 
+CI/CD configuration
